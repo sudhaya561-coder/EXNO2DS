@@ -23,6 +23,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
+~~~ python
         <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
       import pandas as pd
       import numpy  as np
@@ -108,6 +109,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
       )
       plt.title("Correlation Heatmap - Titanic Dataset")
       plt.show()
+~~~
+# output:
       
 [exp2.pdf](https://github.com/user-attachments/files/25596199/exp2.pdf)
 
